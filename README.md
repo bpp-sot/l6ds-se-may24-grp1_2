@@ -1,1 +1,1 @@
-# l6ds-se-may24-grp1_2
+# This repository is for the Data Science, SOFTWARE ENGINEERING module, specifically the May24 cohort (groups 1 and 2)
