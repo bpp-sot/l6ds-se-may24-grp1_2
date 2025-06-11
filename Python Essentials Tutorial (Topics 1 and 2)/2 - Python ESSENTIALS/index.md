@@ -5,6 +5,7 @@
 - Briefly explain the importance of Python in data science and software development
 - Outline the learning objectives for this session
 
+## [Control Structures](01-control-structures.md)
 ## 1. Control Structures (25 minutes)
 
 ### 1.1 If-Else Statements (10 minutes)
