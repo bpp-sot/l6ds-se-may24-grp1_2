@@ -5,8 +5,7 @@
 - Briefly explain the importance of Python in data science and software development
 - Outline the learning objectives for this session
 
-## [Control Structures](01-control-structures.md)
-## 1. Control Structures (25 minutes)
+## [1. Control Structures](01-control-structures.md) (25 minutes)
 
 ### 1.1 If-Else Statements (10 minutes)
 - Explain the concept of conditional execution
@@ -19,7 +18,7 @@
 - Live coding: Create a program that uses a for loop to iterate through a list of numbers and calculate their sum
 - Live coding: Create a program that uses a while loop to implement a simple guessing game
 
-## 2. Data Structures (30 minutes)
+## [2. Data Structures](02-data-structures.md) (30 minutes)
 
 ### 2.1 Lists (15 minutes)
 - Explain what lists are and why they're useful
