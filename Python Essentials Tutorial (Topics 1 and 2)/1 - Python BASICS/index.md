@@ -6,7 +6,7 @@ By the end of this tutorial, learners will be able to:
 - Recognise Python's importance and applications in data science
 - Set up and start using Python using various methods
 
-## [Introduction](./tutorial/topic-01-python-basics/01-introduction.md)
+## [Introduction](01-introduction.md)
 - Brief overview of Python and its importance in data science
 - Real-world applications (Google, Instagram, Tesla examples)
 
