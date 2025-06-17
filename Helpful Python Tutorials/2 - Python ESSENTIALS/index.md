@@ -1,52 +1,36 @@
 # Python Essentials Tutorial
 
 ## Introduction (5 minutes)
-- Welcome students to the Python Essentials tutorial
-- Briefly explain the importance of Python in data science and software development
-- Outline the learning objectives for this session
+- Python Essentials tutorial (covering content from topic 2 of Software Engineering module)
 
-## 1. Control Structures (25 minutes)
+## [1. Control Structures](01-control-structures.md) (25 minutes)
 
 ### 1.1 If-Else Statements (10 minutes)
-- Explain the concept of conditional execution
-- Demonstrate basic if-else syntax
-- Live coding: Create a simple program that uses if-else to categorise numbers as positive, negative, or zero
+- The concept of conditional execution
+- Basic if-else syntax
 
 ### 1.2 Loops (15 minutes)
-- Introduce for loops and while loops
-- Explain when to use each type of loop
-- Live coding: Create a program that uses a for loop to iterate through a list of numbers and calculate their sum
-- Live coding: Create a program that uses a while loop to implement a simple guessing game
+- For loops and while loops
 
-## 2. Data Structures (30 minutes)
+## [2. Data Structures](02-data-structures.md) (30 minutes)
 
 ### 2.1 Lists (15 minutes)
-- Explain what lists are and why they're useful
-- Demonstrate list creation, indexing, and common methods (append, pop, etc.)
-- Live coding: Create a program that manages a to-do list using a Python list
+- Storing multiple values with Lists
+- List creation, indexing, and common methods (append, pop, etc.)
 
 ### 2.2 Dictionaries (15 minutes)
-- Introduce dictionaries as key-value pairs
-- Explain when to use dictionaries instead of lists
-- Demonstrate dictionary creation, accessing values, and common methods
-- Live coding: Create a program that stores and retrieves student grades using a dictionary
+- Dictionaries are key-value pairs
+- When to use dictionaries instead of lists
 
-## 3. Functions (20 minutes)
-- Explain the concept of functions and why they're important for code organisation
-- Demonstrate function definition and calling
-- Explain parameters and return values
-- Live coding: Refactor the earlier sum calculation into a reusable function
+## [3. Functions](03-functions.md) (20 minutes)
+- The concept of functions and why they're important for code organisation
+- Function definition and calling
+- Parameters and return values
 
-## 4. Object-Oriented Programming (OOP) Basics (30 minutes)
-- Introduce the concept of classes and objects
-- Explain attributes and methods
-- Demonstrate creating a simple class
-- Live coding: Create a `BankAccount` class with methods for deposit, withdrawal, and balance checking
+## [4. OOP Basics](04-object-oriented-programming-oop-basics.md) (30 minutes)
+- Classes and objects
+- Attributes and methods
 
-## Conclusion and Q&A (10 minutes)
-- Recap the key points covered in the tutorial
-- Address any questions from students
-- Provide resources for further learning and practice
 
 ## Practice Exercises
 1. Create a function that takes a list of numbers and returns a new list containing only the even numbers.
